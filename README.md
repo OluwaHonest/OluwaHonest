@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @OluwaHonest
-- 👀 I’m interested in html, css and Javascript
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on with a full stack developer
-- 📫 How to reach me @oluwahonest 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+Hi, I'm Oluwa Honest, a Computer Engineering pro with 8+ years experience. Currently leveling up my skills to become a fullstack developer, focusing on React, C++, JavaScript, HTML, and CSS.
 
 <!---
 OluwaHonest/OluwaHonest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
